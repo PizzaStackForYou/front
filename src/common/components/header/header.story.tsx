@@ -1,5 +1,5 @@
+import { Header } from '@app/common/components/header/header.component';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
-import { Header } from './header.component';
 
 
 

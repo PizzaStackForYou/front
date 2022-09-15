@@ -1,3 +1,5 @@
+import { FC } from "react";
+
 interface MenuItemProps {
     imagePath: string;
     weight: number;
